@@ -1,4 +1,4 @@
-package com.dev.reachforhelp.ui.register.login
+package com.dev.reachforhelp.ui.logIn
 
 import androidx.lifecycle.ViewModel
 
