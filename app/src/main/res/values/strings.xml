@@ -1,3 +1,100 @@
 <resources>
     <string name="app_name">ReachForHelp</string>
+
+    <string name="back">Back</string>
+    <string name="family_friends">Family/Friends</string>
+    <string name="fullname_ff">Fullname</string>
+    <string name="phone_ff">Phone</string>
+    <string name="email_family_friends">Email</string>
+    <string name="relationship">Relationship</string>
+    <string name="facebook_profile">Facebook Profile</string>
+    <string name="twitter_handel">Twitter handel</string>
+    <string name="add">Add</string>
+    <string name="image">image</string>
+
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_help">Help</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="title_activity_main">ReachForHelp</string>
+
+    <string name="human_right_doc">
+    \n\n 1.1 Lorem ipsum dolor sit amet,consectetur
+    \nadipiscing elit.
+    Suspendisse commodo dolor justo,
+    rhoncus aliquet mauris auctor vel.
+    Phasellus finibus auctor sem,
+    sit amet porta arcu egestas non.
+    Nulla nisl vitae dolor auctor tincidunt sit amet ac dolor.
+    Quisque pulvinar nibh a lacus euismod.
+    \n\n1.2  Lorem ipsum dolor sit amet, consectetur
+    \nadipiscing elit. Suspendisse commodo dolor justo rhoncus
+    aliquet mauris auctor vel. Phasellus finibus auctor sem,
+    sit amet porta arcu egestas non.
+    Nulla nisl vitae dolor auctor tincidunt sit amet ac dolor.
+    Quisque pulvinar nibh a lacus euismod pulvinar. Nullam interdum purus nisi.
+    Donec consectetur consequat porta. Fusce ante felis, tincidunt nec isus sed,
+    porttitor pretium erat. Etiam eu hendreritdolor.
+    </string>
+    <string name="safety_guide_info">
+         \n\n 1.1 Lorem ipsum dolor sit amet,consectetur
+    \nadipiscing elit.
+    Suspendisse commodo dolor justo,
+    rhoncus aliquet mauris auctor vel.
+    Phasellus finibus auctor sem,
+    sit amet porta arcu egestas non.
+    Nulla nisl vitae dolor auctor tincidunt sit amet ac dolor.
+    Quisque pulvinar nibh a lacus euismod.
+    \n\n1.2  Lorem ipsum dolor sit amet, consectetur
+    \nadipiscing elit. Suspendisse commodo dolor justo rhoncus
+    aliquet mauris auctor vel. Phasellus finibus auctor sem,
+    sit amet porta arcu egestas non.
+    Nulla nisl vitae dolor auctor tincidunt sit amet ac dolor.
+    Quisque pulvinar nibh a lacus euismod pulvinar. Nullam interdum purus nisi.
+    Donec consectetur consequat porta. Fusce ante felis, tincidunt nec isus sed,
+    porttitor pretium erat. Etiam eu hendreritdolor.
+    </string>
+    <string name="desc">desc</string>
+    <string name="your_report_has_been_submitted_successfully">Your report has been submitted successfully</string>
+    <string name="_10h_ago">10h ago</string>
+    <string name="home">Home</string>
+    <string name="cases">Cases</string>
+    <string name="help">Help</string>
+    <string name="activity">Activity</string>
+    <string name="_27_04_2022">27–04-2022</string>
+    <string name="new_record_1">New Record 1</string>
+    <string name="new_record">New Record</string>
+    <string name="_10_30">10:30</string>
+    <string name="tap_to_play">Tap to play</string>
+    <string name="in_progress">In progress</string>
+    <string name="_1_overview">1. Overview</string>
+    <string name="hello_olamide">Hello Olamide,</string>
+    <string name="human_right_booklet">Human Right Booklet</string>
+    <string name="report_illegal_arrest_and_harassment_and_also_robery_cases">Report illegal arrest and harassment and also Robery cases</string>
+    <string name="safety_guide_booklet">Safety Guide Booklet</string>
+    <string name="friends_family_zone">Friends / Family zone</string>
+    <string name="how_do_you_want_to_make_your_report">How do you want to make your report?</string>
+    <string name="whistleblowing">Whistleblowing</string>
+    <string name="video_clip">Video Clip</string>
+    <string name="voice_note">Voice Note</string>
+    <string name="eye_witness_report">Eye Witness Report</string>
+    <string name="start_record_to_report_a_case">Start record to report a case</string>
+    <string name="start">Start</string>
+    <string name="welcome_to_reach_for_help">Welcome to Reach For Help</string>
+       <string name="track_arrested_users">Track arrested users</string>
+    <string name="report_illegal_detention_cases_and_police_harassment">Report illegal detention cases and police harassment</string>
+    <string name="make_a_report_for_someone_else_that_is_been_arrested_illegally_or_in_detention_also_plate_number_capture_for_tracking_n">make a report for someone else that is been arrested illegally or in detention, also plate number capture for tracking.\n</string>
+    <string name="get_started">Get started</string>
+    <string name="no_1_tasie_street_eligbolo_port_harcourt_rivers_state">No 1 Tasie street Eligbolo Port Harcourt Rivers State</string>
+    <string name="or_type_location">Or Type location</string>
+    <string name="enter_your_location">Enter your location</string>
+    <string name="illegal_arrest">Illegal Arrest :</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="harassment">Harassment :</string>
+    <string name="more_info">More Info</string>
+    <string name="report">Report</string>
+
 </resources>

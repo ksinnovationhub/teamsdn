@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="video_background">#33009E94</color>
+    <color name="btn_background">#0A2252</color>
+    <color name="human_right">#33009E94</color>
+    <color name="safety_guide">#3306183E</color>
+    <color name="screen_color">#0D0956EA</color>
+    <color name="help_color">#009E94</color>
+    <color name="card_btn_color">#6635D2D2</color>
 </resources>
