@@ -29,7 +29,7 @@ class HomeFragment : Fragment() {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         (activity as AppCompatActivity?)!!.supportActionBar?.hide()
         homeViewModel =
             ViewModelProvider(this).get(HomeViewModel::class.java)

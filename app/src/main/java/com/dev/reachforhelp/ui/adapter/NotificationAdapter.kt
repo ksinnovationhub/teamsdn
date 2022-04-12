@@ -22,9 +22,11 @@ class NotificationAdapter(private val notificationDataList: List<NotificationDat
        val caseData = notificationDataList[position]
         with (holder){
             with (notificationDataList[position]){
-                binding.imgNotification.setImageResource(this.imageNote)
-                binding.txtNotifyTitle.text = this.description
-                binding.txtNotifyTime.text = this.time
+                binding.apply {
+                    imageNote
+                    description
+                    time
+                }
             }
         }
     }
