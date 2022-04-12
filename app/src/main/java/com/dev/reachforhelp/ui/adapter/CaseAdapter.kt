@@ -32,14 +32,6 @@ RecyclerView.Adapter<CaseAdapter.CaseViewHolder>() {
                     caseStatus
                 }
             }
-//                binding.imgCase.setImageResource(this.imageCase)
-//                binding.textCaseDate.text = this.date
-//                binding.caseTitle.text = this.newRecord
-//                binding.txtCaseNewRecord.text = this.record
-//                binding.txtCaseTime.text = this.time
-//                binding.caseTapToplay.text = this.play
-//                binding.caseStatus.text = this.status
-//            }
         }
     }
 
